@@ -1,1 +1,1 @@
-"first git exercise with chat gpt" 
+"changed readme file content" 
